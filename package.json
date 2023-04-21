@@ -1,0 +1,10 @@
+{
+    "id": "hevu-loading",
+    "name": "加载框，loading页",
+    "version": "0.1",
+    "description": "加载框，loading页面，多种纯cssloading动画",
+    "keywords": [
+        "loading",
+        "加载框"
+    ]
+}
